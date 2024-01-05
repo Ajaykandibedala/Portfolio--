@@ -3,7 +3,8 @@ import ProgressBar from "@ramonak/react-progress-bar";
 // import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-// import { faCoffee } from '@fortawesome/free-solid-svg-icons';
+
+ 
 
 import {
     faCog,
